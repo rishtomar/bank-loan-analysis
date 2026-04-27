@@ -50,17 +50,14 @@ Raw Data → Data Cleaning (Python) → SQL Analysis → Power BI Dashboard
 
 ## 📊 Dashboard Preview
 
-### 🔹 Summary Dashboard
+### Summary Dashboard
+![Summary](images/Summary.png)
 
-![Summary Dashboard](images/Summary.png)
+### Overview Dashboard
+![Overview](images/Overview.png)
 
-### 🔹 Overview Dashboard
-
-![Overview Dashboard](images/Overview.png)
-
-### 🔹 Detailed Dashboard
-
-![Details Dashboard](images/Details.png)
+### Details Dashboard
+![Details](images/Details.png)
 
 ---
 
