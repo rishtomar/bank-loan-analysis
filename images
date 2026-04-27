@@ -1,6 +1,6 @@
 bank-loan-analysis/
 │
 ├── images/
-│   ├── summary.png
-│   ├── overview.png
-│   └── details.png
+│   ├── Summary.png
+│   ├── Overview.png
+│   └── Details.png
